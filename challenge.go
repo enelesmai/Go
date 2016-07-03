@@ -3,6 +3,8 @@
 // Crear goroutines a partir de estas funciones.
 // No permitir que main regrese hasta que ambas goroutines hayan terminado de correr.
 
+//Correo: xochitl.selene.fp at gmail.com
+
 package main
 
 // Agregar imports.
